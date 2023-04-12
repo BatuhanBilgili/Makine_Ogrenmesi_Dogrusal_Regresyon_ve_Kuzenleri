@@ -1,0 +1,2 @@
+# Makine_Ogrenmesi_Dogrusal_Regresyon_ve_Kuzenleri
+Makine öğrenmesi Doğrusal Regresyon Modelleri, Notları
