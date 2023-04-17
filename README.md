@@ -7,7 +7,7 @@ Makine öğrenmesi Doğrusal Regresyon Modelleri, Notları bu reporda olacak
 - [`PLS`](PLS.ipynb)
 - [`Ridge Regresyon`](Ridge_Regresyon.ipynb)
 - [`Lasso Regresyon`](Lassso_Regresyon.ipynb)
-- [`ElasticNet Regresyon]`(ElasticNet_Regresyon.ipynb)
+- [`ElasticNet Regresyon`](ElasticNet_Regresyon.ipynb)
 
 ## Regresyon Modellerinin Anahatları
 Regresyon modellerini kurarken 3 ana hatta dikkat ettim.
