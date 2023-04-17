@@ -17,9 +17,9 @@ Regresyon modellerini kurarken 3 ana hatta dikkat ettim.
 - Tahmin
 - Model Tuning / Model Doğrulama
 
-## Model Görselleştirme
-
 bu 3 yapıda modellerimizi oluşturduk, tahmin değerlerine baktık ve modellerin doğruluk oranları/hata paylarına baktık.
+
+## Model Görselleştirme
 
 Modeller kurulurken modellerin bazılarında görselleştirme yapıldı konunun anlaşılması için işte birkaç örnek:
 
